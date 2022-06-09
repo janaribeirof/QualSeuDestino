@@ -14,7 +14,7 @@
 
 Aplicação desenvolvida como desafio da semana Maratona Explorer &copy; [Rocketseat](https://rocketseat.com.br/). Onde o usuário faz uma pergunta aleatória para receber uma resposta sobre seu futuro.
 <p>
-Veja o funcionamento da aplicação acessando [aqui](https://janaribeirof.github.io/doctorcare/).
+Veja o funcionamento da aplicação acessando [Aqui](https://janaribeirof.github.io/QualSeuDestino/).
 <hr>
 
 
