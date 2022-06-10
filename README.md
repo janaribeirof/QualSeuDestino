@@ -2,12 +2,18 @@
 
 <h1 align="center"> Descubra seu destino</h1>
 
-<p align="center">
+<p align="center"> 
 <a href="#Sobre">Sobre</a> .
 <a href="#pre-requisitos">Pré Requisitos</a> .
 <a href="#tecnologias">Tecnologias</a> .
 <a href="#licenc-a">Licença</a> .
-<a href="#autor">Autor</a> .
+<a href="#autor">Autor</a>  
+</p>
+
+---
+
+<p align="center">
+ <img  src="/DescubraSeuDestino.gif/" alt="Gif do Projeto "/>
 </p>
 
 ### Sobre
