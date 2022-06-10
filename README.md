@@ -1,4 +1,4 @@
-<p align="center">🚧​Projeto 🚀​ Em construção...🚧​</p>
+
 
 <h1 align="center"> Descubra seu destino</h1>
 
@@ -10,11 +10,13 @@
 <a href="#autor">Autor</a> .
 </p>
 
-###Sobre
+### Sobre
 
 Aplicação desenvolvida como desafio da semana Maratona Explorer &copy; [Rocketseat](https://rocketseat.com.br/). Onde o usuário faz uma pergunta aleatória para receber uma resposta sobre seu futuro.
 <p>
-Veja o funcionamento da aplicação acessando [Aqui](https://janaribeirof.github.io/QualSeuDestino/).
+ 
+Veja o funcionamento da aplicação acessando [Aqui](https://janaribeirof.github.io/QualSeuDestino/) e divirta-se!
+ 
 <hr>
 
 
