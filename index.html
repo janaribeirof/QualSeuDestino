@@ -6,6 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="style.css"/>
   <title>Qual é o seu destino?</title>
+  <script 
+      type="text/javascript" 
+      src="./script.js" defer></script>
+    <link rel="stylesheet" href="./script.js" />
 </head>
 <body>
   <div id="container">
@@ -13,8 +17,13 @@
     <h1>Descubra seu destino!</h1>
     <p>Clique em fazer pergunta para que seu destino seja revelado.</p>
     <input type="text" placeholder="Digite sua pergunta" />
-    <button>Fazer Pergunta</button>
-    </div>
+    <button onclick="fazerPergunta()">Fazer Pergunta</button>
+
+    <h3 id="resposta">
+      <div>Pergunta que fiz</div>
+      Sim!
+    </h3>
   
+  </div>  
 </body>
 </html>
